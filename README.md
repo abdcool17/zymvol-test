@@ -36,7 +36,7 @@ In this project, Material-UI is used for the NavBar component to create a clean 
 To run the application locally, follow these steps:
 
 - Clone the repository
-- cd zymvol-app
+- cd zymvol-test
 - npm install
 - npm start
 
