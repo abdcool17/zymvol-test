@@ -21,6 +21,10 @@ The project is organized as follows:
 
 - **App.js:** Main React component that brings together other components.
 
+# Why create-react-app?
+
+This project was bootstrapped using `create-react-app` for simplicity, flexibility and quick start:
+
 ## Why Material-UI?
 
 Material-UI is a popular React UI framework that provides a set of pre-designed components with a consistent look and feel, following the Material Design principles. It helps in creating visually appealing and responsive user interfaces while saving development time.
